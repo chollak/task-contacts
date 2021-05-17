@@ -1,5 +1,10 @@
 <template>
   <div class="home mt-5">
+    <div class="container">
+      <h1 class="text-center">
+        Sapaev Shukur
+      </h1>
+    </div>
     <Modal />
     <div class="container mt-5">
       <div class="row">
